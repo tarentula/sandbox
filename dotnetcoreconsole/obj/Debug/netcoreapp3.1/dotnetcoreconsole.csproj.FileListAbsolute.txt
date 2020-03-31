@@ -1,0 +1,11 @@
+C:\src\github\sail@live.se\sandbox\dotnetcoreconsole\bin\Debug\netcoreapp3.1\dotnetcoreconsole.exe
+C:\src\github\sail@live.se\sandbox\dotnetcoreconsole\bin\Debug\netcoreapp3.1\dotnetcoreconsole.deps.json
+C:\src\github\sail@live.se\sandbox\dotnetcoreconsole\bin\Debug\netcoreapp3.1\dotnetcoreconsole.runtimeconfig.json
+C:\src\github\sail@live.se\sandbox\dotnetcoreconsole\bin\Debug\netcoreapp3.1\dotnetcoreconsole.runtimeconfig.dev.json
+C:\src\github\sail@live.se\sandbox\dotnetcoreconsole\bin\Debug\netcoreapp3.1\dotnetcoreconsole.dll
+C:\src\github\sail@live.se\sandbox\dotnetcoreconsole\bin\Debug\netcoreapp3.1\dotnetcoreconsole.pdb
+C:\src\github\sail@live.se\sandbox\dotnetcoreconsole\obj\Debug\netcoreapp3.1\dotnetcoreconsole.csprojAssemblyReference.cache
+C:\src\github\sail@live.se\sandbox\dotnetcoreconsole\obj\Debug\netcoreapp3.1\dotnetcoreconsole.AssemblyInfoInputs.cache
+C:\src\github\sail@live.se\sandbox\dotnetcoreconsole\obj\Debug\netcoreapp3.1\dotnetcoreconsole.AssemblyInfo.cs
+C:\src\github\sail@live.se\sandbox\dotnetcoreconsole\obj\Debug\netcoreapp3.1\dotnetcoreconsole.dll
+C:\src\github\sail@live.se\sandbox\dotnetcoreconsole\obj\Debug\netcoreapp3.1\dotnetcoreconsole.pdb
